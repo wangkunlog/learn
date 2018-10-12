@@ -1,0 +1,11 @@
+mkdir learngit 创建目录。
+cd learngit 
+pwd  显示当前目录
+
+git init 命令把这个目录变成Git可以管理的仓库
+
+git add readme.txt 文件添加到仓库
+git commit -m "wrote a readme file" 把文件提交到仓库 -m后面输入的是本次提交的说明
+
+git status 仓库当前的状态
+git diff  查看difference差异
