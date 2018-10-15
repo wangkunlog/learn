@@ -89,7 +89,6 @@ python3 importer.py
 录入成功
 账号 18459749258 密码 rktfye8937
 录入成功
-exit
 ```
 
 
